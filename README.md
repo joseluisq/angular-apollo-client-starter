@@ -1,6 +1,8 @@
-# Angular4App
+# Angular 4 + GraphQL
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+
+_**Note:** This frontend example works with [Koa-GraphQL-RethinkDB](https://github.com/joseluisq/koa-graphql-rethinkdb) (GraphQL API Server)._
 
 ## Development server
 
